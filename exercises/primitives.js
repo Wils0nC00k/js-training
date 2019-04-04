@@ -8,12 +8,12 @@
  */
 
 // Your code :
-
+const str = "1337";
 
 //* Begin of tests
 const assert = require('assert')
 
-const str = '1337';
+
 
 assert.strictEqual(typeof str, 'string')
 assert.strictEqual(str, '1337')
